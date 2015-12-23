@@ -6,12 +6,12 @@ Handy flexbox CSS classes, for easier HTML layouts.
 
 Include the `handy-flexbox.css` in your styles. There are multiple ways to get the CSS file:
 
-[NPM]:
+[NPM](http://www.npmjs.org/):
 ```
 npm install handy-flexbox
 ```
 
-[Bower]:
+[Bower](http://bower.io/):
 ```
 bower install dfernandez79/handy-flexbox
 ```
@@ -20,9 +20,6 @@ Download from GitHub:
 ```
 curl -L -O https://raw.githubusercontent.com/dfernandez79/handy-flexbox/master/handy-flexbox.css
 ```
-
-[NPM]: http://www.npmjs.org/
-[Bower]: http://bower.io/
 
 ## CSS Class Reference
 

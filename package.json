@@ -1,6 +1,6 @@
 {
   "name": "handy-flexbox",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Handy flexbox CSS classes, for easier HTML layouts.",
   "main": "index.js",
   "style": "./handy-flexbox.css",

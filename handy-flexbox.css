@@ -1,5 +1,4 @@
-// Direction
-// -------------------------
+/* Direction */
 
 .flex-row,
 .flex-column {
@@ -20,8 +19,7 @@
 }
 
 
-// Size
-// -------------------------
+/* Size */
 
 .flex-auto {
   -webkit-box-flex: 1;
@@ -39,8 +37,7 @@
 }
 
 
-// Align
-// -------------------------
+/* Align */
 
 .flex-align-center {
   -webkit-box-align: center;
@@ -63,8 +60,7 @@
 }
 
 
-// Justify
-// -------------------------
+/* Justify */
 
 .flex-justify-start {
   -webkit-box-pack: start;

@@ -1,5 +1,4 @@
-// Direction
-// -------------------------
+/* Direction */
 
 .flex-row,
 .flex-column {
@@ -15,8 +14,7 @@
 }
 
 
-// Size
-// -------------------------
+/* Size */
 
 .flex-auto {
   flex: auto;
@@ -31,8 +29,7 @@
 }
 
 
-// Align
-// -------------------------
+/* Align */
 
 .flex-align-center {
   align-items: center;
@@ -51,8 +48,7 @@
 }
 
 
-// Justify
-// -------------------------
+/* Justify */
 
 .flex-justify-start {
   justify-content: flex-start;

@@ -1,0 +1,23 @@
+{
+  "name": "handy-flexbox",
+  "description": "Handy flexbox CSS classes, for easier HTML layouts.",
+  "main": "index.js",
+  "authors": [
+    "Diego Fernandez <diegof79@gmail.com> (https://github.com/dfernandez79)"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "CSS",
+    "flexbox",
+    "web"
+  ],
+  "homepage": "https://github.com/dfernandez79/handy-flexbox",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

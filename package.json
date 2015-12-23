@@ -1,0 +1,29 @@
+{
+  "name": "handy-flexbox",
+  "version": "1.0.0",
+  "description": "Handy flexbox CSS classes, for easier HTML layouts.",
+  "main": "index.js",
+  "style": "./handy-flexbox.css",
+  "scripts": {
+    "build": "postcss -u autoprefixer --autoprefixer.browsers \"> 5%\" -o handy-flexbox.css src/handy-flexbox.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dfernandez79/handy-flexbox.git"
+  },
+  "keywords": [
+    "CSS",
+    "flexbox",
+    "web"
+  ],
+  "author": "Diego Fernandez <diegof79@gmail.com> (https://github.com/dfernandez79)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dfernandez79/handy-flexbox/issues"
+  },
+  "homepage": "https://github.com/dfernandez79/handy-flexbox#readme",
+  "devDependencies": {
+    "autoprefixer": "^6.2.1",
+    "postcss-cli": "^2.3.2"
+  }
+}

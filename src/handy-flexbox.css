@@ -5,11 +5,18 @@
   display: flex;
 }
 
-.flex-row {
+.inline-flex-row,
+.inline-flex-column {
+  display: inline-flex;
+}
+
+.flex-row,
+.inline-flex-row {
   flex-direction: row;
 }
 
-.flex-column {
+.flex-column,
+.inline-flex-column {
   flex-direction: column;
 }
 

@@ -25,10 +25,12 @@ curl -L -O https://raw.githubusercontent.com/dfernandez79/handy-flexbox/master/h
 
 ### Flex containers
 
-Class       | Description
-----------  | -----------
-flex-row    | Container using display flex, and row direction.
-flex-column | Container using display flex, and column direction.
+Class              | Description
+------------------ | -----------
+flex-row           | Container using display flex, and row direction.
+inline-flex-row    | Inline variation for `flex-row`.
+flex-column        | Container using display flex, and column direction.
+inline-flex-column | Inline variation for `flex-column`.
 
 ### Item size
 

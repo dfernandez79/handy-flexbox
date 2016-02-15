@@ -6,13 +6,21 @@
   display: flex;
 }
 
-.flex-row {
+.inline-flex-row,
+.inline-flex-column {
+  display: -webkit-inline-box;
+  display: inline-flex;
+}
+
+.flex-row,
+.inline-flex-row {
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
           flex-direction: row;
 }
 
-.flex-column {
+.flex-column,
+.inline-flex-column {
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
           flex-direction: column;
